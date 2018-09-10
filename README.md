@@ -1,0 +1,2 @@
+# MorseManifesto
+experimentos com morse
