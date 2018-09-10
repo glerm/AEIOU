@@ -1,2 +1,2 @@
 # AEIOU
-codigos para uma Agencia de Emprego Intergalática Ontológic Única
+Códigos para uma Agencia de Emprego Intergalática Ontológico Único
