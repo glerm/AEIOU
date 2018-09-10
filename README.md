@@ -1,2 +1,2 @@
-# MorseManifesto
-experimentos com morse
+# AEIOU
+codigos para uma Agencia de Emprego Intergalática Ontológic Única
