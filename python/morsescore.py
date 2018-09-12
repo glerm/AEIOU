@@ -9,8 +9,8 @@ environment.set('musicxmlPath', '/usr/bin/musescore')
 
 
 #texto = "AEIOU"
-#texto="manifesto desaceleracionista infinitesimal"
-texto="seus ossos somos isso sos"
+texto="manifesto desaceleracionista infinitesimal"
+
 
 
 m=morse.encode(texto)
